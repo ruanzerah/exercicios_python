@@ -4,7 +4,7 @@ template = ('---|  Tamanho  |  Cupuaçu (CP)  |  Açaí (AC)  |---\n'
             '---|     M     |    R$ 14.00    |  R$ 16.00   |---\n'
             '---|     G     |    R$ 18.00    |  R$ 20.00   |---')
 tamanho_t = 42
-print('-'*21+'Carpadio'+'-'*21)
+print('-'*21+'Cardadio'+'-'*21)
 print('-'*50)
 print(template)
 print('-'*50)
